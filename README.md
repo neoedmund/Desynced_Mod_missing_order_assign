@@ -17,6 +17,6 @@ Recursive Crafting: If you are missing one Laser Turret, and the Small Turret re
 
 -----
 
-It not a perfect one, feel free to modify it by your own on you needs.
+Shared for free. Please don't expect custom changes from me.
 
 
